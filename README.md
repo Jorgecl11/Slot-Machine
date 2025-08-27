@@ -10,6 +10,7 @@ This project demonstrates Python fundamentals like lists, loops, randomization, 
 - Fair spins (symbols picked without replacement)
 - Nicely formatted slot machine output
 - Beginner-friendly, easy to extend
+- added while loop to ask user if they want to continue or quit.
 
 ---
 
